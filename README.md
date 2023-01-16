@@ -1,3 +1,5 @@
 # Expense-Tracker
 
-![Markdown](https://www.hizliresim.com/hh7xtjz)
+![Dashboard](https://i.hizliresim.com/hh7xtjz.JPG)
+
+**C# ASP.NET ile Syncfusion Kütüphanesi kullanılarak yazılmış bir web cüzdan uygulamasıdır.**
